@@ -1,4 +1,4 @@
-# Dwengun
+# [Ash] - Dwen Gun v1.0.0
 ## Commands
 All Commands Are On Channel 1. Default keybinds are listed below.
 
