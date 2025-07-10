@@ -1,12 +1,15 @@
 ### Dwengun
 ## Commands
-# All Commands Are On Channel 1, Default keybinds are listed in brackets [keybind]
-- "help"              Opens link to this page
-- "d2"    [Shift + 2] Draws weapon
-- "s2"                Sling Weapon
-- "r"     [R]         Reload
-- "pd"                Toggle partial damage
-- "kc"                Toggle hitmarker rounds (requires hitmarker hud)
-- "anim"              Toggle between animations sets for narrow and wide shoulders
-- "pos"               Cycle through Avpos, Campos, Velpos bullet rezzing
-- "melee" [F]         Triggers melee attack
+All Commands Are On Channel 1. Default keybinds are listed below.
+
+| KeyBind      | Chat Command | Description                                                 
+|--------------|--------------|-------------------------------------------------------------
+| —            | help         | Opens link to this page                                     
+| Shift + 2    | d2           | Draws weapon                                                
+| —            | s2           | Sling weapon                                                
+| R            | r            | Reload                                                      
+| —            | pd           | Toggle partial damage                                       
+| —            | kc           | Toggle hitmarker rounds (requires hitmarker HUD)            
+| —            | anim         | Toggle between animation sets for narrow and wide shoulders
+| —            | pos          | Cycle through Avpos, Campos, Velpos bullet rezzing         
+| F            | melee        | Triggers melee attack                                       
