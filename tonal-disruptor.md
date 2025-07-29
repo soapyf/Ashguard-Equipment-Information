@@ -6,6 +6,8 @@
 - Spread Degrees Min: 0.20
 - Spread Degrees Max: 0.75
 - Shots to Max Spread: 8
+- Partial Damage: 55
+- Thunderbug Armor Damage: 3
   
 ## Commands
 All Commands Are On Channel 1. Default keybinds are listed below.
