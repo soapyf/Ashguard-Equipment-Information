@@ -10,7 +10,6 @@ All Commands Are On Channel 1. Default keybinds are listed below.
 | R            | r            | Reload                                                      
 | —            | pd           | Toggle partial damage                                       
 | —            | kc           | Toggle hitmarker rounds (requires hitmarker HUD)            
-| —            | anim         | Toggle between animation sets for narrow and wide shoulders
 | —            | pos          | Cycle through Avpos, Campos, Velpos bullet rezzing         
 | F            | melee        | Triggers melee attack                                                          
 | —            | tb           | Toggle thunderbug LBA rounds                                      
