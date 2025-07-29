@@ -1,14 +1,16 @@
 # [Ash] - Tonal Disruptor v1.4.0
 ## Specs
-- Magazine Size: 24
-- Reload time: 3 Seconds
-- Rounds Per Minute: 300
-- Spread Degrees Min: 0.20
-- Spread Degrees Max: 0.75
-- Shots to Max Spread: 8
-- Normal Damage: 100
-- Partial Damage: 55
-- Thunderbug LBA: 3
+| Name                | Value        |
+|---------------------|--------------|
+| Magazine Size       | 24           |
+| Reload Time         | 3 Seconds    |
+| Rounds Per Minute   | 300          |
+| Spread Min          | 0.20°        |
+| Spread Max          | 0.75°        |
+| Shots to Max Spread | 8            |
+| Normal Damage       | 100          |
+| Partial Damage      | 55           |
+| Thunderbug LBA      | 3            |
   
 ## Commands
 All Commands Are On Channel 1. Default keybinds are listed below.
