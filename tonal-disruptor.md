@@ -8,7 +8,7 @@
 - Shots to Max Spread: 8
 - Normal Damage: 100
 - Partial Damage: 55
-- LBA Damage: 3
+- Thunderbug LBA: 3
   
 ## Commands
 All Commands Are On Channel 1. Default keybinds are listed below.
