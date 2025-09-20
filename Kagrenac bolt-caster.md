@@ -32,7 +32,7 @@ All Commands Are On Channel 1. Default keybinds are listed below.
 
 | KeyBind      | Chat Command | Description                                                 
 |--------------|--------------|-------------------------------------------------------------
-| —            | help         | Opens link to this page                                     
+| —            | help1        | Opens link to this page                                     
 | Shift + 2    | d2           | Draws weapon                                                
 | —            | s2           | Sling weapon                                                
 | R            | r            | Reload                                                      
