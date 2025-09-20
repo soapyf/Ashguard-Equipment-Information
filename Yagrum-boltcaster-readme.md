@@ -1,4 +1,16 @@
-# [Ash] - Dwen Gun v1.0.0
+# [Ash] - Yagrum bolt-caster v1.2.1
+## Specs
+| Name                | Value        |
+|---------------------|--------------|
+| Layer               | 2            |
+| Magazine Size       | 30           |
+| Reload Time(seconds)| 2.45         |
+| Rounds Per Minute   | 600          |
+| Spread Min          | 0.20°        |
+| Spread Max          | 0.55°        |
+| Shots to Max Spread | 15           |
+| Normal Damage       | 100          |
+| Partial Damage      | 45           |
 ## Commands
 All Commands Are On Channel 1. Default keybinds are listed below.
 
