@@ -1,4 +1,4 @@
-# [Ash] - Kagrenac bolt-caster v1.0.0
+# [Ash] - Kagrenac bolt-caster v1.0.2
 ## Specs
 | Name                | Value        |
 |---------------------|--------------|
