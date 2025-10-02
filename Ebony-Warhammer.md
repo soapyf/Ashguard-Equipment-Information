@@ -35,6 +35,7 @@ Kills avatars and deals 5LBA to objects on other side of wall
 | Breach Arc          | 365°         |
 | Breach Speed        | 5s           |
 | Breach Damage       | 100          |
+| Breach LBA          | 5            |
 
 ## Commands
 All Commands Are On Channel 1. Default keybinds are listed below.
