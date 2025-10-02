@@ -8,6 +8,7 @@
 | Melee Arc           | 25°          |
 | Melee Speed         | .45s         |
 | Melee Damage        | 100          |
+| Melee LBA           | 5            |
 
 
 
