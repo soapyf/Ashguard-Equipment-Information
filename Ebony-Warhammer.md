@@ -46,4 +46,5 @@ All Commands Are On Channel 1. Default keybinds are listed below.
 | Shift + 1    | d            | Draws weapon                                                
 | —            | s            | Sling weapon                                   
 | —            | reset        | Reset Hammer                                     
+| Q            | Aux          | Breach                                
 | Left Mouse   | —            | Melee Attack        
