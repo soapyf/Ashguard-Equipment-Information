@@ -102,7 +102,7 @@
 - Have a cooldown of at least 1 minute on any self-repair/healing functions.
 
 
-## Respawn Timers
+### Respawn Timers
 - We currently require all vehicles to utilize respawn timers. Below is a chart detailing how they should work.
   
 | LBA Type      | Formula     |
@@ -110,7 +110,7 @@
 | Full LBA      | 1s per 10HP |
 | Light LBA     | 1s per 20HP |
 
-## HP Limits
+### HP Limits
 
 | Class                        | HP Max | Notes     |
 |------------------------------|--------|-----------|
@@ -122,9 +122,19 @@
 > [!NOTE]
 > High mobility mechs always fall within the Light Vehicles / Mechs category.
 
+### Damage/time to kill reference chart
+
+| Crew      | Cap  | DPS  | Tank TTK | Heavy Mech/VTOL TTK | Light Vehicle TTK |
+|-----------|------|------|----------|---------------------|-------------------|
+| 1         | 2000 | 33.3 | 12.0s    | 6.0s                | 4.5s              |
+| 2         | 2750 | 45.8 |  8.7s    | 4.4s                | 3.3s              |
+| 3         | 3500 | 58.3 |  6.9s    | 3.4s                | 2.6s              |
+| 4         | 4250 | 70.8 |  5.6s    | 2.8s                | 2.1s              |
+| Fleetship | 4500 | 75.0 |  5.3s    | 2.7s                | 2.0s              |
 
 
 
 
 # Footnotes & Definitions
 ¹ Haze refers to a raycasting method in which perceived width is achieved by casting a cluster of rays around a central reference ray.
+
