@@ -16,6 +16,8 @@
 
 - Do not enter red spawn zones and do not shoot into them unless returning fire
 - All vehicles and armor systems must be LBA compatible
+- All vehicles are required to have respawn timers. More info is below in the vehicles section
+- All weapons capable of dealing LBA damage are capped at 2000 damage per minute. The only exception to this is fleet ships
 - Avatars must be at least 1.5m tall to participate in combat
 - Prejump must be enabled
 - No loud or obnoxious sounds
@@ -28,12 +30,12 @@
 - No weapons designed to kill through obstacles that would typically stop them
 - Fully automatic raycast weapons are not allowed at this time
 - Burst fire raycast is allowed if it has no haze¹
-- No Sensor or Agent-list weapons. Exceptions to this rule are Flamethrowers, Explosives, & Melee. You may also use them to create lock-on functions. Additional exceptions to the rule may be considered on a case-by-case basis.
+- No Sensor or Agent-list weapons. Exceptions to this rule are Flamethrowers, Explosives, & Melee. You may also use them to create lock-on functions. Additional exceptions to the rule may be considered on a case-by-case basis
 
 ## Explosives & AOE
 
 - Explosives must adhere to a 5m kill / 10m wound radius unless highly directional
-- Explosives must not exceed these limits unless there is a wind-up time choreographed both visually and audibly for several seconds
+- Explosives must not exceed these limits unless there is a wind-up time choreographed both visually and audibly for a reasonable amount of time
 - Explosives that exceed a 2m kill radius must be interceptable
 - Explosive projectiles, missiles, or bombs that use non-physical movement or any other method designed to defeat interceptors are not allowed
 - Explosives must not kill through walls or other solid objects
@@ -94,15 +96,25 @@ All armored units must:
 - Hover/jetpack no more than 15 meters above the ground
 - Have a cooldown of at least 1 minute on any self-repair/healing functions
 
+## Respawn Timers
+- We currently require all vehicles to utilize respawn timers. Below is a chart detailing how they should work.
+  
+| LBA Type      | Formula     |
+|---------------|-------------|
+| Full LBA      | 1s per 10HP |
+| Light LBA     | 1s per 20HP |
+
 ## HP Limits
 
 | Class                        | HP Max | Notes     |
 |------------------------------|--------|-----------|
 | Tanks / Heavy Vehicles       | 400    |           |
-| Gunships / VTOL              | 200    |           |
-| Fast Attack / Light Vehicles | 100    | LBA Light |
+| Gunships / VTOL / Heavy Mechs| 200    |           |
+| Light Vehicles / Mechs       | 150    | LBA Light |
 | Fighters / UFO Flight        | 10     | LBA Light |
 
+> [!NOTE]
+> High mobility mechs always fall within the Light Vehicles / Mechs category
 
 
 
