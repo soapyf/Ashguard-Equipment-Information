@@ -93,7 +93,7 @@
 
 All armored units must:
 - Utilise LBA compatible armor.
-- Hover/jetpack no more than 15 meters above the ground.
+- Hover/jetpack/Jump no more than 15 meters above the ground.
 - Have a cooldown of at least 1 minute on any self-repair/healing functions.
 - LBA damage cap for vehicles is applied to the combined output of all weapons on that vehicle.
 - LBA damage cap may be increased for multi-crew vehicles WHILE being crewed by multiple avatars at a rate of an aditional 750 damage per minute per avatar.
