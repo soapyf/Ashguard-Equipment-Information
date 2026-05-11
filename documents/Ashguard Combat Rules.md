@@ -95,7 +95,7 @@
 - LBA damage cap may be increased for multi-crew vehicles WHILE being crewed by multiple avatars at a rate of an aditional 750 damage per minute per avatar.
 - Fleet ships are currently exempt from the damage output cap but should be aware that LBA has a built in cap of 4500 per minute before being blacklisted.
   
-All armored units must:
+### Armored units:
 - Utilise LBA compatible armor.
 - Have a hitbox that makes a fair attempt to represent the visual scale of the vehicle.
 - Hover/jetpack/Jump no more than 15 meters above the ground.
