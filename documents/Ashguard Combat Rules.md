@@ -92,7 +92,7 @@
 # Vehicles
 - Avatar hitbox aircraft are not allowed.
 - LBA damage cap for vehicles is applied to the combined output of all weapons on that vehicle.
-- LBA damage cap may be increased for multi-crew vehicles WHILE being crewed by multiple avatars at a rate of an aditional 750 damage per minute per avatar.
+- LBA damage cap may be increased for multi-crew vehicles WHILE being crewed by multiple avatars at a rate of an additional 750 damage per minute per avatar.
 - Fleet ships are currently exempt from the damage output cap but should be aware that LBA has a built in cap of 4500 per minute before being blacklisted.
   
 ### Armored units:
@@ -120,7 +120,7 @@
 | Fighters / UFO Flight        | 10     | LBA Light |
 
 > [!NOTE]
-> High mobility mechs always fall within the Light Vehicles / Mechs category.
+> High mobility vehicles always fall within the Light Vehicles / Mechs category.
 
 ### Damage/time to kill reference chart
 
