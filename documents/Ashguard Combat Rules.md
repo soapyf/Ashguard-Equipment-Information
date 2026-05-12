@@ -120,7 +120,7 @@
 | Fighters / UFO Flight        | 10     | LBA Light |
 
 > [!NOTE]
-> High mobility vehicles always fall within the Light Vehicles / Mechs category.
+> High mobility vehicles always fall within the Light Vehicles / Mechs or Fighters / UFO Flight categories.
 
 ### Damage/time to kill reference chart
 
