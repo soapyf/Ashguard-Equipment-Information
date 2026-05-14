@@ -30,13 +30,6 @@ Damage scales linearly from full to zero between the full damage range and max r
 - **Pass 1 – Avatars:** 20m range, 45° cone. Targets must **both** pass a line-of-sight raycast **and** fall within 1.5m of the camera's aim line. The avatar directly under the crosshair (center raycast hit) always receives damage regardless of angle.
 - **Pass 2 – LBA Objects:** Same range and cone. Targets scripted objects with a description beginning with `LBA.v.`. Uses the same aim validation as Pass 1.
 
-| Distance  | Avatar Damage | LBA Damage |
-|-----------|---------------|------------|
-| 0 – 5m    | 100           | 10         |
-| 7.5m      | 100           | 10         |
-| 12.5m     | 50            | ~5         |
-| 20m       | 0             | 0          |
-
 > Avatar damage falls off from **5m → 20m**. LBA damage falls off from **7.5m → 20m**.
 
 ```mermaid
