@@ -47,6 +47,14 @@ xychart-beta
     line [100, 100, 28, 11, 0]
 ```
 
+> Avatar damage is further reduced based on how far from the center of the camera a target is **0m - 1.5m**
+```mermaid
+xychart-beta
+    title "Radial Falloff by Distance %"
+    x-axis ["0m", "1.5m"]
+    y-axis "Damage %" 0 --> 100
+    line [100, 0]
+```
 ```mermaid
 xychart-beta
     title "LBA Damage Falloff by Distance"
