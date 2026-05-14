@@ -44,7 +44,7 @@ xychart-beta
     title "Avatar Damage Falloff by Distance"
     x-axis ["0m", "5m", "10m", "15m", "20m"]
     y-axis "Avatar Damage" 0 --> 100
-    line [100, 100, 42, 18, 0]
+    line [100, 100, 28, 11, 0]
 ```
 
 ```mermaid
