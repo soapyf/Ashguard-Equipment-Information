@@ -29,6 +29,5 @@ All Commands Are On Channel 1.
 | 1             | fm             | Enable/Disable Haze (RC mode only)                          
 | —             | chat           | Toggles ammo state chat feedback for reloading              
 | —             | partial reload | Toggles Partial Reload Mode                                 
-| —             | rez            | Toggles Brass and Clip rez on/off                           
-| —             | REDSMOKE       | Fix/Unfix Bayonet                                           
+| —             | rez            | Toggles Brass and Clip rez on/off                                        
 | —             | reset          | Reset Script                                                
