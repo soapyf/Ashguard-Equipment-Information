@@ -6,6 +6,7 @@
 | Normal Damage       | 100          |
 | Haze Damage         | 75           |
 | Velocity            | 200          |
+| Rounds Per Minute   | 80           |
 | Reload Time (Clip)  | 2.15 seconds |
 | Reload Time (Single)| 0.6 seconds  |
 
