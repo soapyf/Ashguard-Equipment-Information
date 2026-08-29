@@ -152,13 +152,22 @@ And now for our smaller merits before I move on to promotions. And finally, Nigh
 
 ### Merit Cosmetic Rewards
 
-A couple of the cosmetics being handed out this month, now that they are finished.
+Everything going out this month, in the same order as the merits above.
 
-![Rune Bracer Variants](meeting-images/rune-bracer-variants.png)
-*The Specialist's Rune Bracer, with its variants.*
+![Raider and Guardian Pauldrons](meeting-images/raider-besieger-pauldrons.png)
+*The pauldrons, for Journeyman Besieger and Journeyman Defender.*
+
+![Ashstorm Dust Goggles and Jingasa](meeting-images/duststorm-goggles-ash-jingasa.png)
+*The Ashstorm Dust Goggles and the Ashstorm Jingasa, for Journeyman and Master Pointman.*
+
+![Morag Tong Shadow Hood](meeting-images/morag-tong-shadow-hood.png)
+*The Morag Tong 'Shadow Hood', for Journeyman Assassin.*
 
 ![Ancestor Chainwrap](meeting-images/ancestor-chainwrap.png)
-*The Ancestor Chainwrap, plain and with the service medallion hung from it.*
+*The Ancestor Chainwrap, plain and with the service medallion hung from it, for Journeyman Pillar.*
+
+![Rune Bracer Variants](meeting-images/rune-bracer-variants.png)
+*The Specialist's Rune Bracer and its variants, for Journeyman Specialist.*
 
 ---
 
