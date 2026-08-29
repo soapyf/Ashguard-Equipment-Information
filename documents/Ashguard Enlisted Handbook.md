@@ -25,7 +25,7 @@ There are several behaviors deemed unacceptable by The Ashguard and will not be 
 - **Content Theft:** Stealing or copybotting content that does not belong to you, whether inside or outside of Second Life, or distributing group assets without express permission.
 - **Abuse of Reports:** Misusing Linden Labs' abuse report system to get another user's account suspended or banned from Second Life without just cause.
 
-Violating any of these rules may result in immediate removal from Ashguard and may lead to exclusion from the wider community. Ashguard supports the Big 4 initiative and will comply with any blacklisting decisions made by our community partners following an appropriate investigation.
+Violating any of these rules may result in immediate removal from Ashguard and may lead to exclusion from the wider community.
 
 ### Group Policy
 
