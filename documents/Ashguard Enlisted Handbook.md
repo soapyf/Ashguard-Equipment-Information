@@ -51,12 +51,6 @@ As a general guide:
 - While on duty, Enlisted Personnel and above must primarily wear bonemold armor. This helps us identify each other during conflicts and is a crucial part of our group identity. As a soldier of Resdayn, you also serve as a city guard, so your attire should reflect this role.
 - Your combat avatar must be combat-appropriate and non-sexual in nature. Keep your build clean by removing unnecessary scripts, particle effects, and non-combat attachments. See the Combat Avatar Policy for full details.
 
-### Off Duty in Resdayn
-
-You are allowed to enter an off-duty state while on the sim if you wish to relax in the Headquarters or Temple. During these times, you can wear theme-appropriate apparel instead of your full armor. Many Ashguard members choose to wear partial armor to indicate their casual state.
-
-If you wish to go off duty, the group "Ashguard - Civilians" is appropriate for this purpose. However, if an attack occurs, it is advisable to don your armor and prepare for action!
-
 ### Conduct During Combat
 
 During raids, there are specific expectations regarding communication and equipment use. Raids typically begin with a phase called "low escalation," where only basic equipment is used. As the raid progresses, the level of equipment may escalate, as directed by your Officer in Command (OIC). It is also standard practice that during any raid, you may only use equipment issued by Ashguard. Your combat avatar must comply with the Ashguard Combat Avatar Policy.
